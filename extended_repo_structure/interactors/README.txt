@@ -1,0 +1,1 @@
+Higher level abstraction that can call multiple services -- you may want this instead of having services call services, or having transports call multiple services

@@ -1,0 +1,1 @@
+Workers are a kind of pseudo-transport that can be delegated to to handle asynchronous tasks -- this could possibly be a transport too.
